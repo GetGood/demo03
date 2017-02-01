@@ -32,7 +32,7 @@ namespace tehtava5
             Console.WriteLine("Last name: " + Lastname);
             Console.WriteLine("Student ID: " + StudentID);
             Console.WriteLine("Age: " + Age);
-            Console.WriteLine("Classes: " + Courses);
+            Console.WriteLine("Courses: " + Courses);
         }
         public void TakeCourse()
         {
